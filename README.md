@@ -1,2 +1,2 @@
-# Laboratory
-Laboratory collects all experimental works  to embedded in the Social Platform of Opne data (SPOD) project
+# SPOD Laboratory
+SPOD Laboratory collects all experimental works  to embeddin the Social Platform of Open Sata (SPOD) project
